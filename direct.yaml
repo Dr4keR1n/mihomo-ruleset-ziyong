@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,sapocia.com
   - PROCESS-NAME,GameAcc.exe
   - PROCESS-NAME,Netch.exe
+  - DOMAIN-SUFFIX,eftarkov.com
